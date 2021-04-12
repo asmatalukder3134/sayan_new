@@ -3,7 +3,7 @@ package macys;
 public class A extends B{
 
 	A(String name) {
-		super("dhaka");
+		super("faka");
 		
 	}
 
